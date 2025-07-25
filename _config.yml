@@ -23,13 +23,13 @@ repository               : "Tshiyao/Tshiyao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Xinrui Shi"
+  pronouns         : her # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shixinrui19@nudt.edu.cn" 
 
   # Academic websites
   academia         : # URL
